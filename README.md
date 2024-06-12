@@ -1,13 +1,35 @@
-# bigEvent
+# big-event-ui
 
-#### 介绍
-自己玩的前后端项目，集成我玩的新技术
-minio断点续传     2024.1.5
-流程审批    2024.1.13
-websocket消息通知前期准备    2023-12-10
+This template should help get you started developing with Vue 3 in Vite.
 
-#### 软件架构
-软件架构说明
+## Recommended IDE Setup
 
-#### sql文件
-待日后提交
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+pnpm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+pnpm dev
+```
+
+### Compile and Minify for Production
+
+```sh
+pnpm build
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+pnpm lint
+```
